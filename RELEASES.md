@@ -1,6 +1,15 @@
 Releases history
 ===================
 
+1.0
+===================
+Made 3D and 2D schemas of box
+Had the box's parts laser-cut
+Built the box
+Tested everything again
+Added heating sinks
+Completed many documents
+
 0.3
 ===================
 Tested these components: 12V voltage regulator, 5V voltage regulator, power switch. See results in PhotoGallery
